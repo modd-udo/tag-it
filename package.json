@@ -1,7 +1,7 @@
 {
   "name": "tag-it",
   "description": "A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.",
-  "main": "js/tag-it.min.js",
+  "main": "js/tag-it.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aehlke/tag-it.git"
